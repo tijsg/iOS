@@ -182,6 +182,7 @@
 "close_label" = "Κλείσιμο";
 "component.collapsible_view.collapse" = "Σύμπτυξη";
 "component.collapsible_view.expand" = "Επέκταση";
+"connection.error.details.button.clipboard" = "Copy to clipboard";
 "connection.error.details.button.discord" = "Ρωτήστε στο Discord";
 "connection.error.details.button.doc" = "Διαβάστε την τεκμηρίωση";
 "connection.error.details.button.github" = "Αναφορά προβλήματος στο GitHub";
